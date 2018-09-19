@@ -10,7 +10,6 @@
 
 
         <Button x:Name="btnPickImage" Content="Добавить фото" Click="btnPickImage_Click" DockPanel.Dock="Top" Background="#FF26263D" Foreground="White"/>
-        <!-- Puzzle -->
         <Grid x:Name="gridMain">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
